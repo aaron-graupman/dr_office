@@ -1,0 +1,2 @@
+class Dr < ApplicationRecord
+end
