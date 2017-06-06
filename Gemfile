@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.3.1'
-
+#this is bullshit
 
 gem 'pry'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
